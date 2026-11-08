@@ -1,0 +1,25 @@
+{
+  "name": "RunLab",
+  "short_name": "RunLab",
+  "description": "Entraînement course à pied et trail – local-first",
+  "start_url": "/runlab/",
+  "scope": "/runlab/",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#0D0D0D",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/runlab/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/runlab/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
